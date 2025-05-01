@@ -1,6 +1,6 @@
-# Polygon Token Creation Tool
+# Ethereum Token Creation Tool
 
-A simple frontend tool to create tokens on the Polygon (Matic/Pol) network using a backend API.
+A simple frontend tool to create tokens on the Ethereum (ETH) network using a backend API.
 
 ## ✨ Features
 - Built with Next.js
@@ -15,17 +15,17 @@ A simple frontend tool to create tokens on the Polygon (Matic/Pol) network using
 - Just signup at https://vercel.com/
 - Click at add project
 - Now slect Import Third-Party Git Repository →
-- Insert this project link https://github.com/BayHatter/Polygon-Token-Creation-Tool.git
+- Insert this project link https://github.com/BayHatter/Ethereum-Token-Creation-Tool.git
 - And press deploy
-- Congrats your POlygon Token Creation Tool installed on your vercel.com account
+- Congrats your Ethereum Token Creation Tool installed on your vercel.com account
 - Now you can go to domian section under project at vercel.com at link it.
 - That's it
 
 ## ✨ How to charge token creation fees.
 - If you want to charge token creation fees
-- Then donwload our code from https://github.com/BayHatter/Polygon-Token-Creation-Tool
+- Then donwload our code from https://github.com/BayHatter/Ethereum-Token-Creation-Tool
 - Upload into your Github repo.
-- Edit the file public/config.json and insert your POL wallet address for receiving fees. Also set fee in POL that you want to charge
+- Edit the file public/config.json and insert your ETH wallet address for receiving fees. Also set fee in ETH that you want to charge
 - Once done, go to vercel.com and deploy the project
 - You can also link your own domain name with vercel.com
 - Vercel is free for lifetime, you can also use there paid package (Optional)
